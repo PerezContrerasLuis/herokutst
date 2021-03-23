@@ -9,7 +9,6 @@
 </head>
 
 <body>
-  <p> Ejemplo de de bar code Scaner </p>
   <p id="code">code will appear here</p>
 
 
