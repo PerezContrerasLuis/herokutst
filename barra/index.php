@@ -11,7 +11,6 @@
 <body>
   <p id="code">code will appear here</p>
 
-
   <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
   <script src="BarcodeScanner.js"></script>
   <script src="app.js"></script>
@@ -19,8 +18,6 @@
     var resultElement = document.getElementById('code')
     setupLiveReader(resultElement)
   </script>
-
-
 </body>
 
 </html>
