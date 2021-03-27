@@ -9,6 +9,7 @@
 </head>
 
 <body>
+    <h1> test de quagga js </h1>
     <div id="resultado"></div>
     <div id="camera"></div>
 
@@ -22,6 +23,7 @@
                 target: document.querySelector('#camera')    
             },
             frequency: 10,
+            locate: true,
             decoder: {
                 readers: ["code_128_reader","ean_reader"]
             }
