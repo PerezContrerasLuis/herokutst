@@ -15,7 +15,7 @@
   <body>
       <header>
           <div class="headline">
-              <h1>Prueba con QuaggaJS</h1>
+              <h1>QuaggaJS EJEMPLO</h1>
           </div>
       </header>
     <section id="container" class="container">
